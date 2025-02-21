@@ -19,6 +19,7 @@ public class MediaPreFixada_v2 {
             media[i] = soma / (i + 1);
         }
 
+        
         // impressão do vetor de médias
         for(int i = 0; i < media.length; i++) {
             System.out.println(media[i] + " ");
